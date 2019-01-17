@@ -1,12 +1,12 @@
 {
-  "name": "simple-oauth2",
-  "version": "2.2.1",
+  "name": "borntraegermarc-simple-oauth2",
+  "version": "2.2.2",
   "description": "Node.js client for OAuth2",
   "author": "Andrea Reginato <andrea.reginato@gmail.com>",
   "contributors": [
     "Jonathan Samines <jn.samines@gmail.com>"
   ],
-  "homepage": "https://github.com/lelylan/simple-oauth2",
+  "homepage": "https://github.com/BorntraegerMarc/simple-oauth2",
   "main": "index.js",
   "repository": {
     "type": "git",
